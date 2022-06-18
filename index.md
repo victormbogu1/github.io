@@ -2,7 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Instacart Project Analysis
+Instacart aim in targeting customers with applicable marketing to gauge sales of their products. Perform an exploratory analysis of Instacart data to derive insights and suggest strategies based on provided criteria
 
 [![family-status.png](https://i.postimg.cc/DfxhrC6F/family-status.png)](https://postimg.cc/YjLTkzTy)
 [![100-stacked-bar.png](https://i.postimg.cc/pVZy5Y3M/100-stacked-bar.png)](https://postimg.cc/DmS7ts2x)
@@ -21,7 +22,8 @@
 
 ---
 
-### Category Name 2
+### Fifa20 Casestudy
+Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes
 [![Screenshot-2022-06-18-162338.png](https://i.postimg.cc/zGXzhV4t/Screenshot-2022-06-18-162338.png)](https://postimg.cc/nCgfbcFB)
 [![correction.png](https://i.postimg.cc/q7s37tKm/correction.png)](https://postimg.cc/d701HV4d)
 - [Project 4 Title](http://example.com/)
