@@ -3,9 +3,9 @@
 ---
 
 ### Instacart Project Analysis
-Instacart aim in targeting customers with applicable marketing to gauge sales of their products. Perform an exploratory analysis of Instacart data to derive insights and suggest strategies based on provided criteria
+* Instacart aim in targeting customers with applicable marketing to gauge sales of their products. Perform an exploratory analysis of Instacart data to derive insights and suggest strategies based on provided criteria
 
-[![family-status.png](https://i.postimg.cc/DfxhrC6F/family-status.png)](https://postimg.cc/YjLTkzTy)
+[![top-5depts.png](https://i.postimg.cc/nh271fXT/top-5depts.png)](https://postimg.cc/pm9p27Yn)
 [![100-stacked-bar.png](https://i.postimg.cc/pVZy5Y3M/100-stacked-bar.png)](https://postimg.cc/DmS7ts2x)
 ---
 
@@ -17,19 +17,25 @@ Instacart aim in targeting customers with applicable marketing to gauge sales of
 [![customer-profile-Top5-dept.png](https://i.postimg.cc/FsKLpBQx/customer-profile-Top5-dept.png)](https://postimg.cc/YjJ0q804)
 
 ---
-[![top-5depts.png](https://i.postimg.cc/nh271fXT/top-5depts.png)](https://postimg.cc/pm9p27Yn)
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pVZy5Y3M/100-stacked-bar.png' border='0' alt='100-stacked-bar'/></a>
-
----
 
 ### Fifa20 Casestudy
-Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes
+* Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes
 [![Screenshot-2022-06-18-162338.png](https://i.postimg.cc/zGXzhV4t/Screenshot-2022-06-18-162338.png)](https://postimg.cc/nCgfbcFB)
 [![correction.png](https://i.postimg.cc/q7s37tKm/correction.png)](https://postimg.cc/d701HV4d)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
+
+### PIG.E Bank
+* Finding the leading indicators why a customer may quit the bank, in order to boost customer retention.
+
+[![Screenshot-2022-06-18-164122.png](https://i.postimg.cc/FFDjMn07/Screenshot-2022-06-18-164122.png)](https://postimg.cc/BtPLDpY0)
+[![Screenshot-2022-06-18-163949.png](https://i.postimg.cc/MGQC4Q4p/Screenshot-2022-06-18-163949.png)](https://postimg.cc/VSzZ0dmx)
+
+[![Screenshot-2022-06-18-164254.png](https://i.postimg.cc/qqRCB42g/Screenshot-2022-06-18-164254.png)](https://postimg.cc/LYcsNdCM)
+
+
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 
