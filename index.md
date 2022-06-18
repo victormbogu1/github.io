@@ -22,10 +22,8 @@
 ---
 
 ### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+[![Screenshot-2022-06-18-162338.png](https://i.postimg.cc/zGXzhV4t/Screenshot-2022-06-18-162338.png)](https://postimg.cc/nCgfbcFB)
+[![correction.png](https://i.postimg.cc/q7s37tKm/correction.png)](https://postimg.cc/d701HV4d)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
