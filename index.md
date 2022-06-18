@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-"/images/Age_group.png?raw=true"
+[![Picture1.png](https://i.postimg.cc/Xv6YGPQg/Picture1.png)](https://postimg.cc/G4zC6X0B)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
