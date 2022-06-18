@@ -1,4 +1,4 @@
-title: John Doe # your name (or website title) here
+title: Victor Mbogu # your name (or website title) here
 logo: "/images/1620680203553.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
@@ -8,4 +8,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/victor-mbogu-aa932b142/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
