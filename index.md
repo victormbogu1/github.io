@@ -4,15 +4,19 @@
 
 ### Category Name 1 
 
-[![Picture1.png](https://i.postimg.cc/Xv6YGPQg/Picture1.png)](https://postimg.cc/G4zC6X0B)
-
+[![family-status.png](https://i.postimg.cc/DfxhrC6F/family-status.png)](https://postimg.cc/YjLTkzTy)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+[![Customer-profile-percentage.png](https://i.postimg.cc/kMQczZz3/Customer-profile-percentage.png)](https://postimg.cc/rzpxthqQ)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[![Dept-name-dept-ID.png](https://i.postimg.cc/XJ38YkBD/Dept-name-dept-ID.png)](https://postimg.cc/kV18j8cx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[![top-5depts.png](https://i.postimg.cc/nh271fXT/top-5depts.png)](https://postimg.cc/pm9p27Yn)
 
 ---
 
