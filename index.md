@@ -41,6 +41,7 @@
 * The brick and mortar movie rental business Rockbuster is up against fierce competition from internet streaming services like Netflix and Amazon Prime. Management has resolved that they must establish their own online video streaming business in order to remain competitive. I performed database queries for Rockbuster using PostgreSQL and SQL as a data analyst to support the launch strategy of this new online video service.
 
 [![Picture3.png](https://i.postimg.cc/43smKrB7/Picture3.png)](https://postimg.cc/PCVt9FGT)
+[![Screenshot-2022-07-12-162125.png](https://i.postimg.cc/J4YHG1Fs/Screenshot-2022-07-12-162125.png)](https://postimg.cc/ZC35Qh4m)
 [![Screenshot-2022-07-12-162545.png](https://i.postimg.cc/KzLGJfqS/Screenshot-2022-07-12-162545.png)](https://postimg.cc/sQjC2YCw)
 
 - [Project 5 Title](http://example.com/)
