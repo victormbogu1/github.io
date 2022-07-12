@@ -1,10 +1,11 @@
 title: Victor Mbogu # your name (or website title) here
 logo: "/images/1620680203553.jfif?raw=true" # your photo (or logo) here
-About Me:
-I'm a skilled Data analyst with academic background in statistics. I have deep experience in interpreting and analyzing business data for developing 
-effective business solutions. My passion is in improving corporate data processes and performances.
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I'm a skilled Data analyst with academic background in statistics. I have deep experience in interpreting and analyzing business data for developing 
+  effective business solutions. My passion is in improving corporate data processes and performances.
+  <br><br>
+  <a href="https://www.linkedin.com/in/victor-mbogu-aa932b142/">View My LinkedIn Profile</a>
+  <a href="https://public.tableau.com/app/profile/victor4941/">Tableau Public</a>
 
-* <a href="https://www.linkedin.com/in/victor-mbogu-aa932b142/">View My LinkedIn Profile</a>
-* [Top 5 customers](https://public.tableau.com/app/profile/victor4941/viz/rock_16376702508090/Dashboard6)
-  
+
 theme: jekyll-theme-minimal
