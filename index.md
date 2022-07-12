@@ -3,7 +3,7 @@
 ---
 
 ### Instacart Project Analysis
-* Instacart aim in targeting customers with applicable marketing to gauge sales of their products. Perform an exploratory analysis of Instacart data to derive insights and suggest strategies based on provided criteria
+* Instacart aim in targeting customers with applicable marketing to gauge sales of their products. Perform an exploratory analysis of Instacart data to derive insights and suggest strategies based on provided criteria. Over 32,000,000 rows of order data are stored in open-source data sets that are available online via Instacart. Additionally, customer data sets created for this study on using Python to analyze data sets were examined in this analysis. As Instacart's data analyst, I used Jupyter Notebook to run code and generate graphs on issues like the busiest hours of the week for the app, the most popular grocery sections, and the average age of users placing orders through the app.
 
 [![top-5depts.png](https://i.postimg.cc/nh271fXT/top-5depts.png)](https://postimg.cc/pm9p27Yn)
 [![100-stacked-bar.png](https://i.postimg.cc/pVZy5Y3M/100-stacked-bar.png)](https://postimg.cc/DmS7ts2x)
@@ -26,15 +26,20 @@
 ---
 
 ### PIG.E Bank
-* Finding the leading indicators why a customer may quit the bank, in order to boost customer retention.
+* Finding the leading indicators why a customer may quit the bank, in order to boost customer retention. 
 
 [![Screenshot-2022-06-18-164122.png](https://i.postimg.cc/FFDjMn07/Screenshot-2022-06-18-164122.png)](https://postimg.cc/BtPLDpY0)
 [![Screenshot-2022-06-18-163949.png](https://i.postimg.cc/MGQC4Q4p/Screenshot-2022-06-18-163949.png)](https://postimg.cc/VSzZ0dmx)
 
 [![Screenshot-2022-06-18-164254.png](https://i.postimg.cc/qqRCB42g/Screenshot-2022-06-18-164254.png)](https://postimg.cc/LYcsNdCM)
 
+---
 
-- [Project 4 Title](http://example.com/)
+### Rockbuster Stealth LLC
+* The brick and mortar movie rental business Rockbuster is up against fierce competition from internet streaming services like Netflix and Amazon Prime. Management has resolved that they must establish their own online video streaming business in order to remain competitive. I performed database queries for Rockbuster using PostgreSQL and SQL as a data analyst to support the launch strategy of this new online video service.
+[![Picture3.png](https://i.postimg.cc/43smKrB7/Picture3.png)](https://postimg.cc/PCVt9FGT)
+[![Screenshot-2022-07-12-162545.png](https://i.postimg.cc/KzLGJfqS/Screenshot-2022-07-12-162545.png)](https://postimg.cc/sQjC2YCw)
+
 - [Project 5 Title](http://example.com/)
 
 
