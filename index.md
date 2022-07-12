@@ -45,7 +45,7 @@
 [![Screenshot-2022-07-12-162125.png](https://i.postimg.cc/J4YHG1Fs/Screenshot-2022-07-12-162125.png)](https://postimg.cc/ZC35Qh4m)
 [![Screenshot-2022-07-12-162545.png](https://i.postimg.cc/KzLGJfqS/Screenshot-2022-07-12-162545.png)](https://postimg.cc/sQjC2YCw)
 
-- [Contact](victormbogu1@gmail.com)
+- Contact - victormbogu1@gmail.com
 
 
 
