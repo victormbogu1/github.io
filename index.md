@@ -19,6 +19,7 @@
 ---
 
 ### Fifa20 Casestudy
+
 * Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes
 [![Screenshot-2022-06-18-162338.png](https://i.postimg.cc/zGXzhV4t/Screenshot-2022-06-18-162338.png)](https://postimg.cc/nCgfbcFB)
 [![correction.png](https://i.postimg.cc/q7s37tKm/correction.png)](https://postimg.cc/d701HV4d)
@@ -36,6 +37,7 @@
 ---
 
 ### Rockbuster Stealth LLC
+
 * The brick and mortar movie rental business Rockbuster is up against fierce competition from internet streaming services like Netflix and Amazon Prime. Management has resolved that they must establish their own online video streaming business in order to remain competitive. I performed database queries for Rockbuster using PostgreSQL and SQL as a data analyst to support the launch strategy of this new online video service.
 
 [![Picture3.png](https://i.postimg.cc/43smKrB7/Picture3.png)](https://postimg.cc/PCVt9FGT)
