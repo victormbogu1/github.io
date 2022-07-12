@@ -20,7 +20,8 @@
 
 ### Fifa20 Casestudy
 
-* Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes
+* Conducted geospatial analysis, textual analysis of unstructured data, cluster analysis to reveal trends, relationship and correlations among players attributes.
+
 [![Screenshot-2022-06-18-162338.png](https://i.postimg.cc/zGXzhV4t/Screenshot-2022-06-18-162338.png)](https://postimg.cc/nCgfbcFB)
 [![correction.png](https://i.postimg.cc/q7s37tKm/correction.png)](https://postimg.cc/d701HV4d)
 
